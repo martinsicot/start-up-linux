@@ -1,0 +1,10 @@
+anthropic.claude-code
+eamodio.gitlens
+irongeek.vscode-env
+charliermarsh.ruff
+ms-python.debugpy
+ms-python.python
+redhat.vscode-yaml
+tomoki1207.pdf
+waderyan.gitblame
+yzane.markdown-pdf
